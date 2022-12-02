@@ -1,6 +1,6 @@
 # blitz
 
-A new Flutter project.
+Money transfer app using the Lightning Network.
 
 ## Getting Started
 

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1015397142607",
+    "project_id": "blitz-a2183",
+    "storage_bucket": "blitz-a2183.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015397142607:android:078295ba0265529356da3a",
+        "android_client_info": {
+          "package_name": "sn.blitz.blitz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015397142607-idald988t7dvpstug7d24gbre9962v1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHWdEE-xt9uvrIhzPpKUJpfqXe_f6UxXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015397142607-idald988t7dvpstug7d24gbre9962v1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
