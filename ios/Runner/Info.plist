@@ -47,5 +47,9 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+	<key>NSCameraUsageDescription</key>
+	<string>Scan QR Codes using your camera.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Read QR codes saved in your library.</string>
 </dict>
 </plist>
