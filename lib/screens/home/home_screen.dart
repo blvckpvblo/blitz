@@ -20,7 +20,7 @@ class HomeScreen extends StatelessWidget {
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: const [
                 Text(
-                  'Reçu de Prénom Nom',
+                  'Reçu de Momar Cisse',
                   style: TextStyle(fontSize: 12),
                 ),
                 Text(
@@ -110,7 +110,7 @@ class HomeScreen extends StatelessWidget {
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
                   Text(
-                    '0,0094',
+                    '972 846.30',
                     style: TextStyle(
                         color: Colors.grey.shade800,
                         fontSize: 16,
@@ -162,16 +162,6 @@ class HomeScreen extends StatelessWidget {
               child: ListView(
                 padding: const EdgeInsets.only(top: 10, bottom: 40),
                 children: [
-                  inkWell,
-                  inkWell,
-                  inkWell,
-                  inkWell,
-                  inkWell,
-                  inkWell,
-                  inkWell,
-                  inkWell,
-                  inkWell,
-                  inkWell,
                   inkWell,
                 ],
               ),
